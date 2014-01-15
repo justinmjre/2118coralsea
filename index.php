@@ -225,7 +225,7 @@
 								</div>
 							</div>
 							<br />
-							<a href="http://maxebrdi.paragonrels.com/publink/default.aspx?GUID=80348905-d585-4731-ab61-10b07b3598ee&Report=Yes" class="image full"><img style="width: 100%;" src="images/compdata.png" /></a>
+							<a href="http://maxebrdi.paragonrels.com/publink/default.aspx?GUID=d23fc015-8873-42a4-a0f5-152318ef925c&Report=Yes" class="image full"><img style="width: 100%;" src="images/compdata.png" /></a>
 						</div>
 					</section>
 			
